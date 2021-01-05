@@ -1,4 +1,11 @@
 <h2> Hi, I'm Zeynep Küçük! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+Welcome to my GitHub. My name is zeynep and I'm a Data Scientist and MSc Student. 
+
+I’m currently working on Speech Processing 🗣
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Data Scientist at <a href="http://www.evam.com">Evam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 Tech Blogger at <a href="https://www.instagram.com/woman.engineer">Woman.Engineer</a>
@@ -14,7 +21,6 @@ Tech Blogger at <a href="https://www.instagram.com/woman.engineer">Woman.Enginee
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, follow me!</b> :)</em>
