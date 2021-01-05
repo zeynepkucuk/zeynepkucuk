@@ -1,4 +1,5 @@
 <h2> Hi, I'm Zeynep Küçük! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepkucuk" alt="zeynepkucuk" /> </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -14,11 +15,9 @@ Tech Blogger at <a href="https://www.instagram.com/woman.engineer">Woman.Enginee
 </em></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepkucuk" alt="zeynepkucuk" /> </p>
 
 
 <img align='below' src="https://github-readme-stats.vercel.app/api?username=zeynepkucuk&show_icons=true">
-
 
 
 
