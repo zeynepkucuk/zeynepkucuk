@@ -16,7 +16,6 @@ Tech Blogger at <a href="https://www.instagram.com/woman.engineer">Woman.Enginee
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/woman.engineer)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/womaneng)
 [![Linkedin: ZeynepKucuk](https://img.shields.io/badge/-zeynepkucuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeynepkucuk/)](https://www.linkedin.com/in/zeynepkucuk/)
-[![GitHub ZeynepKucuk](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/zeynepkucuk)
 [![Mail Badge](https://img.shields.io/badge/zynpkck95@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zynpkck95@gmail.com)](mailto:zynpkck95@gmail.com)
 
 
