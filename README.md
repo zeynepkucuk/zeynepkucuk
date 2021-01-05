@@ -1,7 +1,9 @@
 <h2> Hi, I'm Zeynep Küçük! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Data Scientist at <a href="http://www.evam.com">Evam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
-Tech Blogger at <a href="https://www.instagram.com/woman.engineer">Woman.Engineer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Tech Blogger at <a href="https://www.instagram.com/woman.engineer">Woman.Engineer</a>
+  <a href="https://www.womaneng.com">womaneng.com</a>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -21,5 +23,6 @@ Tech Blogger at <a href="https://www.instagram.com/woman.engineer">Woman.Enginee
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/womaneng)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-küçük/)
 [![Mail Badge](https://img.shields.io/badge/zynpkck95@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zynpkck95@gmail.com)](mailto:zynpkck95@gmail.com)
+
 
 
