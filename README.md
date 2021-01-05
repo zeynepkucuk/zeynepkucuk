@@ -7,6 +7,9 @@ Tech Blogger at <a href="https://www.instagram.com/woman.engineer">Woman.Enginee
 </em></p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepkucuk" alt="zeynepkucuk" /> </p>
+
+
 <img align='below' src="https://github-readme-stats.vercel.app/api?username=zeynepkucuk&show_icons=true">
 
 
