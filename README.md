@@ -8,7 +8,7 @@ Welcome to my GitHub. My name is zeynep and I'm a Data Scientist and MSc Student
 I’m currently working on Speech Processing 🗣
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Data Scientist at <a href="http://www.evam.com">Evam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+<p><em>Data Scientist at <a href="https://www.fordotosan.com.tr/tr">Ford Otosan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 Tech Blogger at <a href="https://www.instagram.com/woman.engineer">Woman.Engineer</a>
   <a href="https://www.womaneng.com">womaneng.com</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
